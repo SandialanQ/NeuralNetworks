@@ -1,0 +1,4 @@
+##tutorial git (que no es lo mismo que github)
+
+git config --global user.name "Your name comes here"
+git conf
